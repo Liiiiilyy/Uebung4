@@ -1,5 +1,7 @@
 # java/Uebung4
 
+- [BLUEJ 文档](https://www.bluej.org/tutorial/tutorial-chinese-simpl.pdf)
+
 ## Aufgabe1
 
 - 这是一道关于Java程序设计的题目。在指定的BlueJ项目中，有一个名为OneMansMorris的类，它的main()方法显示了一个游戏棋盘，可以使用箭头键移动棋子。棋子只能沿着路径移动，不能穿过绿色区域。
